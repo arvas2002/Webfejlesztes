@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+header{
+    background-color: white;
+    padding: 20px;
+}
+header > h1{
+    color: black;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
